@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 ruby '2.0.0'
 
-gem 'rails', '4.0.4'
+gem 'rails', '4.0.5'
 
-gem 'sqlite3', :group => [:development, :test]
+gem 'sqlite3', '1.3.8', :group => [:development, :test]
 
 gem 'sass-rails', '4.0.1'
 gem 'uglifier', '2.1.1'
